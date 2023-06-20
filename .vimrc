@@ -38,3 +38,6 @@ filetype indent on
 set autoindent
 set smartindent
 
+" map ESC to CAPS LOCK
+au BufEnter * silent! !xmodmap -e 'clear Lock' -e 'keycode 0x42 = Escape'
+au BufLeave * silent! !xmodmap -e 'clear Lock' -e 'keycode 0x42 = Caps_Lock'
