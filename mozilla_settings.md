@@ -1,7 +1,7 @@
-This is a file containing my preferred mozilla firefox settings.
-The settings include privacy preserving and performance optimization.
-This file was created and modified on June 20, 2023 @ 5:08 am
-Current Mozilla Firefox version: v114.0
+This is a file containing my preferred mozilla firefox settings.  
+The settings include privacy preserving and performance optimization.  
+This file was created and modified on June 20, 2023 @ 5:08 am  
+Current Mozilla Firefox version: v114.0  
 
 1. Enabling Hardware Acceleration
 
@@ -19,19 +19,19 @@ Current Mozilla Firefox version: v114.0
 
 - Browse about:config
 - Accept the Risk and continue.
-- Set the list of preferences below to false:
+- Set the list of preferences below to false:  
 
-browser.download.animateNotification
-browser.newtabpage.activity-stream.telemetry
-browser.newtabpage.activity-stream.feeds.telemetry
-browser.ping-centre.telemetry
-toolkit.telemetry.bhrPing.enabled
-toolkit.telemetry.archive.enabled
-toolkit.telemetry.firstShutdownPing.enabled
-toolkit.telemetry.reportingpolicy.firstRun
-toolkit.telemetry.newProfilePing.enabled
-toolkit.telemetry.unified
-toolkit.telemetry.shutdownPingSender.enabled
-toolkit.telemetry.updatePing.enabled
+browser.download.animateNotification  
+browser.newtabpage.activity-stream.telemetry  
+browser.newtabpage.activity-stream.feeds.telemetry  
+browser.ping-centre.telemetry  
+toolkit.telemetry.bhrPing.enabled  
+toolkit.telemetry.archive.enabled  
+toolkit.telemetry.firstShutdownPing.enabled  
+toolkit.telemetry.reportingpolicy.firstRun  
+toolkit.telemetry.newProfilePing.enabled  
+toolkit.telemetry.unified  
+toolkit.telemetry.shutdownPingSender.enabled  
+toolkit.telemetry.updatePing.enabled  
 
 
