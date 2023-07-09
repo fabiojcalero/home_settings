@@ -13,6 +13,9 @@ syntax on
 " Add numbers to each line on the left-hand side.
 set number
 
+" Show relative line numbers instead of absolute line numbers
+set relativenumber
+
 " Prevent vim from automatically adding comments when new line is created
 au FileType * set fo-=c fo-=r fo-=0
 
