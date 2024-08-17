@@ -3,10 +3,11 @@ The settings file was created on June 20, 2023 @ 5:26am.
 Last updated on the same date.
 The current git version is 2.34.1
 
-1. Configure Name and Email
+1. Configure Name, Email, and Default Branch Name
 
 - git config --global user.name "Fabio Calero"
 - git config --global user.email "fabiojcalero@gmail.com"
+- git config --global init.defaultBranch main
 
 2. Create a new ssh key and add it to the ssh agent of the machine
 
