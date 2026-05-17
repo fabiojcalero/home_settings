@@ -1,5 +1,5 @@
 # Important Reminders
-1. Install zsh
-2. Install volta and node
-3. Install starship
+1. Install node
+2. Configure pnpm
+3. Install ohmyposh
 4. Install sdkman
