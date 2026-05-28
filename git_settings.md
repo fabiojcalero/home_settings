@@ -30,7 +30,8 @@ Start the ssh-agent in the background using the next command.
 eval "$(ssh-agent -s)"
 ```
 
-- Add the private ssh key to the ssh-agent using the next command.
+Add the private ssh key to the ssh-agent using the next command.
+
 ```
 ssh-add ~/.ssh/id_ed25519
 ```
