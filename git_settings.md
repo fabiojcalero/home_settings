@@ -18,9 +18,13 @@ ssh-keygen -t ed25519 -C "fabiojcalero@gmail.com"
 ```
 
 Enter a file in which to save the key(/home/USER/.ssh/ALGORITHM: [Press enter]
+
 Enter passphrase (empty for no passphrase): [Type a passphrase]
+
 Enter same passphrase again: [Type passphrase again]
+
 Start the ssh-agent in the background using the next command.
+
 
 ```
 eval "$(ssh-agent -s)"
