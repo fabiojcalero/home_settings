@@ -14,7 +14,7 @@ git config --global init.defaultBranch main
 2. Create a new ssh key and add it to the ssh agent of the machine
 
 ```
-ssh-keygen -t ed25519 -C "fabiojcalero@gmail.com"
+ssh-keygen -t ed25519 -C "useremail@example.com"
 ```
 
 Enter a file in which to save the key(/home/USER/.ssh/ALGORITHM: [Press enter]
