@@ -6,8 +6,8 @@ The current git version is 2.34.1
 1. Configure Name, Email, and Default Branch Name
 
 ``` 
-git config --global user.name "Fabio Calero"
-git config --global user.email "fabiojcalero@gmail.com"
+git config --global user.name "User Name"
+git config --global user.email "useremail@example.com"
 git config --global init.defaultBranch main
 ```
 
